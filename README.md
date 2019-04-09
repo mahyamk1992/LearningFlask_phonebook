@@ -1,1 +1,1 @@
-# Learning Flask microframework using it in phonebook web application
+# Basic web application:Phonebook, based on microframework flask
